@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+#navbar ul li a{
+
+    text-transform: uppercase;
+    margin: 0 .5rem;
+}
+
+.main {
+    padding-top: 200px;
+    text-align: center;
+    text-decoration: none;
+}
+#image1 img {
+
+    border: 1px solid black;
+    height: 600px;
+    width: 750px;
+    
+}
+#img-btm {
+    text-align: center;
+
+}
+a .read-more {
+text-align: center;
+}
+.hotel {
+    padding-top: 200px;
+    text-align: center;
+    text-decoration: none;
+}
+.row .column1 img {
+    height: 600px;
+    width: 750px;
+    float: right;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.history {
+    text-align: center;
+}
+.row1 .column2 img {
+    padding-top: 200px;
+    height: 750px;
+    width: 750px;
+    float: right;
+}
+.restoration {
+    text-align: center;
+   padding-bottom: 200px;
+}
+.row2 .column3 img {
+    margin-top: 200px;
+    height: 750px;
+    width: 750px;
+    float: right;
+}
+.garden {
+    height: 600px;
+    width: 600%;
+}
+.dox img {
+    height: 600px;
+    width: 600px;
+}
+
+
